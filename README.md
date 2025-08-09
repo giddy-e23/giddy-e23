@@ -1,7 +1,7 @@
 # Hi there, I'm Gideon! 👋
 
 ## About Me
-I am a passionate software developer with a focus on Flutter development. I also have experience with HTML, CSS, JavaScript and Dart. Currently, I work at **@buvaz** and study Software Engineering at **Makerere University**. 
+I am a passionate software developer with a focus on Flutter development. I also have experience with HTML, CSS, JavaScript and Dart. Currently, I study Software Engineering at **Makerere University**. 
 - 🌱 I’m currently learning Java, Nest.js and React.
 - ⚡ Fun fact: 
 I love video games🤩.

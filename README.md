@@ -8,13 +8,11 @@ I love video games🤩.
   
 ## 🎯 Skills
 - 🚀 Flutter
-- 🌐 HTML
+- 🌐 React js
 - 🎨 CSS
-- 💻 JavaScript
+- 💻 Typescript
+- 💻 Laravel
 - 💻 Dart
-
-## 📚 Current Projects
-I am currently working on various projects that involve Flutter development and web technologies.
 
 ## 🎓 Education
 - **Makerere University** - Bachelor of Science in Software Engineering
